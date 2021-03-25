@@ -11,5 +11,9 @@
 ![REST_API](https://img.shields.io/badge/-RESTAPI-090909?style=for-the-badge&logo=restapi)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css)
+![SCSS/SASS](https://img.shields.io/badge/-SCSS/SASS-090909?style=for-the-badge&logo=SCSS/SASS)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=bootstrap)
+
+
 
 
