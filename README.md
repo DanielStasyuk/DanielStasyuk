@@ -6,7 +6,7 @@
 
 
 ![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=javascript)
-![ReactJs](https://img.shields.io/badge/-ReactJS-090909?style=for-the-badge&logo=ReactJs)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 ![RESTAPI](https://img.shields.io/badge/-RESTAPI-090909?style=for-the-badge&logo=restapi)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
