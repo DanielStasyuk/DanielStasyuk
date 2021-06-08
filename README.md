@@ -1,6 +1,6 @@
 ### Hi 👋 My name is **Daniel Stasyuk**!
 
- I'm a beginner *front-end developer* from Kiev, Ukraine.
+ I'm *front-end developer* from Kiev, Ukraine.
 
  Languages and Technologies
 
