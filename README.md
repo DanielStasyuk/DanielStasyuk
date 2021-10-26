@@ -1,4 +1,4 @@
-### Hi 👋 My name is **Daniel Stasyuk**!
+### Hi 👋 My name is **Daniel Stasiuk**!
 
  I'm *front-end developer* from Kiev, Ukraine.
 
